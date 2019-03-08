@@ -80,15 +80,21 @@ figcaption {
 }
 
 .col-1 {
-  /* this column will span one-third */
+  float: left;
+  width: 32%;
+  background: #ccc;
 }
  
 .col-2 {
-  /* this column will span two-thirds */
+  float: left;
+  width: 66%;
+  background: #ccc;
 }
  
 .col-3 {
-  /* this column will span all the entire wrapper */
+ background: #ccc;
 }
+
+
 
 
